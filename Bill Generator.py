@@ -8,7 +8,7 @@ qty=[]
 rate=[]
 ch='y'
 
-os.system("title Bill Generator by Sandeep")
+os.system("title Bill Generator by venkat")
 
 d_date = datetime.datetime.now()
 reg_format_date = d_date.strftime("  %d-%m-%Y\t\t\t\t\t  Bill Generator\t\t\t\t\t  %I:%M:%S %p")
